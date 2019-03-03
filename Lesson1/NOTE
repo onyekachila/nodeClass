@@ -1,0 +1,32 @@
+NODE - This is a runtime environment for excuting javascript code.
+
+Synchronous Vs Asynchronous  
+
+
+1   to be done in 5 minutes
+
+2   to be done in 10 minutes
+
+3  to be done in 3 minutes
+
+4  to be done in 4 minutes
+
+5 to be done in 8 minutes 
+
+1 wait
+2 complete
+3 wait
+4 wait 
+5 wait  to complete is 30 minutes
+
+Asynchronous to complete 10 minutes 
+
+Node works with asynchronous architecture - meaning it is using a non blocking architecture.
+Node application are asynchronous by default.
+
+Globally scoped objects in node are objects that are globally scoped. Meaning you can access them from anywhere.
+
+For us to avoid the issues of conflicting code we should always modularise our code. The variables and files that we define 
+in that module are scoped to that module alone. 
+
+Every file in node is a module.
